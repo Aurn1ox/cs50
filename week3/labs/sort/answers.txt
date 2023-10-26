@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it has the longest runtime for a random file, lesser runtime for a reversed file, and almost no runtime for a sorted filee
+
+sort2 uses: Merge Sort
+
+How do you know?: Sorts All 3 different types of randomized data in the shortest time
+
+sort3 uses: selection sort
+
+How do you know?: all 3 different types of randomized data inputs have the same runtime to sort, and it's slower than sort2
